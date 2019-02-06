@@ -18,6 +18,7 @@ Als je doorwerkt op app-2:
 NB: Steek geen of weinig tijd in een backend, voor je eindcijfer is alleen je frontend van belang!
 
 ## Normering App 3 - Eindopdracht
+Onder `1 Basiscijfer` staat een lijst van minimale vereisten voor een voldoende (6). Als je er één mist is het een knock-out. Onder `2` en `3` dan nog een lijst van punten waarmee jullie respectievelijk min- of juist pluspunten kunt halen. Je kunt minpunten compenseren met pluspunten. De docent kan een pluspunt ook deels toekennen. Een enkel missend vereist item kan evt. ook doorschuiven naar app-3, als het klein is en de app overall een voldoende indruk geeft.
 
 ### 1. Basiscijfer 6
 Als voldaan is aan deze minimale vereisten:
