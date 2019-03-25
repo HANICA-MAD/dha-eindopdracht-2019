@@ -101,7 +101,7 @@ Uiteraard kun je maximaal maar 4 van de 5 mogelijke bonuspunten halen voor een 6
     - Geen extra RxJS t.o.v. app-2 of enkel gebruik van `.subscribe`  of `Observable.` of niet functioneel gebruik +0
     - Triviaal maar wel functioneel gebruik van een of meer RxJS operators +0.25
     - Verwerkt merendeel van logica binnen RxJS +0.5
-- [ ] P7. Verspreid in een AppStore **max +0.5**
+- [ ] P7. Verspreid in een AppStore / Play Store o.i.d. **max +0.5**
     - Basic/niet te vinden **+0**
     - Energie in promotie gestoken zoals mooie custom icon, aantrekkelijke beschrijving **+0.25**
     - Veel energie in gestoken, promotie truc o.i.d. **+0.5**
