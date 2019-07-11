@@ -35,8 +35,14 @@ Als voldaan is aan deze minimale vereisten:
 - [ ] 10. App bevat tenminste één (Angular) *custom component* (met attributen/parameters waaronder minstens 1 `@Input` en 1 `@Output`!)*
 - [ ] 11. GEEN wachtwoorden opslaan in App (als toch perse nodig is, gebruik link:https://ionicframework.com/docs/native/intel-security/[IntelSecurity] of gelijkwaardig; NIET zelf security implementeren)
 - [ ] 12. Gebruik kan op intuitieve manier invoer doen in app (bv. configuratie, sensor sensitiviteit, spelersniveau van game)
-- [ ] 13. Schrijf unit tests voor cruciale/complexere functionaliteiten in je app (minsten 4 unit tests)
+- [ ] 13. Schrijf minstens 4 eigen unit tests voor cruciale/complexere functionaliteiten in je app, volgens het AAA pattern en voorkom 'unit testing anti patterns')
 - [ ] 14. Schrijf in de README ook een reflectie op basis van de demo les (met evt. debat): Evaluatie app + hybrid vs. native*
+
+**Add 13 Unit tests:**
+In je unit tests MOET je het AAA-pattern gebruiken. In de naamgeving moet je duidelijk kunnen zien wat de . De test code zelf is DRY/DAMP. In je README voeg je ook toe hoe je de tests moet runnen, namelijk met `npm test`). Als je wilt mag je andere dan standaard Jasmine test framework gebruiken, maar dit raden we niet aan. Bij de 4 verplichte unit tests tellen de automatisch gegenereerde tests niet mee ('should be created')
+
+Laat zien dat je principes van unit testen hebt begrijpen, en voorkom [unit testing anti-patterns](
+https://www.yegor256.com/2018/12/11/unit-testing-anti-patterns.html) in je code.
 
 **Add 14 Evaluatie:**
 - Schrijf een korte evaluatie van je app en de nog te verbeteren punten.
